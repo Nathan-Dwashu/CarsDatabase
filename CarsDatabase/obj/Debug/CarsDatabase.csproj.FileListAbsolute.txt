@@ -1,0 +1,11 @@
+C:\WorkSpace\2021\CarsDatabase\CarsDatabase\bin\Debug\CarsDatabase.exe.config
+C:\WorkSpace\2021\CarsDatabase\CarsDatabase\bin\Debug\CarsDatabase.exe
+C:\WorkSpace\2021\CarsDatabase\CarsDatabase\bin\Debug\CarsDatabase.pdb
+C:\WorkSpace\2021\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.csproj.AssemblyReference.cache
+C:\WorkSpace\2021\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.frmCars.resources
+C:\WorkSpace\2021\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.frmSearch.resources
+C:\WorkSpace\2021\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.Properties.Resources.resources
+C:\WorkSpace\2021\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.csproj.GenerateResource.cache
+C:\WorkSpace\2021\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.csproj.CoreCompileInputs.cache
+C:\WorkSpace\2021\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.exe
+C:\WorkSpace\2021\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.pdb
